@@ -39,3 +39,58 @@
 </p>
 
 ---
+
+## 📌 Featured Projects
+
+> 这里可以放一些你想展示的项目。
+
+- 🧩 [Project Name](https://github.com/dolphinmiao)  
+  项目简介：一句话介绍这个项目解决了什么问题。
+
+- 🚀 [Project Name](https://github.com/dolphinmiao)  
+  项目简介：记录学习、实践或开源贡献的项目。
+
+- 🌟 [Project Name](https://github.com/dolphinmiao)  
+  项目简介：一个有趣的小工具或个人作品。
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dolphinmiao&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dolphinmiao&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+## 🌱 Currently Learning
+
+- 前端工程化
+- 后端开发
+- 数据结构与算法
+- 开源项目协作
+- AI 与开发效率工具
+
+---
+
+## 📫 Contact Me
+
+如果你对我的项目感兴趣，或者想一起交流技术，欢迎联系我：
+
+- GitHub: [@dolphinmiao](https://github.com/dolphinmiao)
+- Email: your-email@example.com
+- Blog: coming soon...
+
+---
+
+<p align="center">
+  <strong>Thanks for visiting my profile! 🐬</strong>
+</p>
+
+<p align="center">
+  <em>Keep coding, keep learning, keep growing.</em>
+</p>
