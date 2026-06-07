@@ -3,55 +3,87 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);海豚祝您今天愉快!&center=true&size=27">
 </h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);海豚祝您今天愉快!&center=true&size=27" />
+</p>
+
 <h1 align="center">Hi 👋, I'm dolphinmiao 🐬</h1>
 
 <p align="center">
-  <strong>热爱代码、持续学习、喜欢把有趣的想法变成现实。</strong>
+  <strong>撷世间百花，酿千古绝香。</strong>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dolphinmiao&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <a href="https://github.com/dolphinmiao">
+    <img src="https://img.shields.io/badge/GitHub-dolphinmiao-181717?style=flat-square&logo=github" />
+  </a>
+  <a href="https://homepage.dolphinmiao.top/">
+    <img src="https://img.shields.io/badge/Homepage-dolphinmiao.top-0e75b6?style=flat-square&logo=google-chrome&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=dolphinmiao&label=Profile%20Views&color=0e75b6&style=flat-square" />
 </p>
 
 ---
 
 ## 👋 About Me
 
-你好，我是 **dolphinmiao**。
+你好，这里是 **dolphinmiao**，也可以叫我 **海豚**。
 
-- 🐬 一个对技术充满好奇心的开发者
-- 💻 喜欢编写简洁、实用、可维护的代码
-- 🌱 正在持续学习前端、后端、开源与工程化相关技术
-- 🚀 希望通过 GitHub 记录成长、分享项目和积累作品
-- ✨ 相信长期主义，也相信每天进步一点点
+- 🐬 对技术、游戏、社区和有趣的想法都很感兴趣
+- 🎮 关注 Celeste / 蔚蓝相关内容与社区项目
+- 🌐 喜欢折腾个人主页、图床、Wiki 和各种小工具
+- 💻 正在持续学习 Web 开发、后端、自动化和开源协作
+- ✨ 相信每天进步一点点，慢慢把想法变成现实
 
 ---
 
 ## 🛠 Tech Stack
 
 <p>
-  <img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=flat-square&logo=javascript" />
-  <img src="https://img.shields.io/badge/Code-TypeScript-blue?style=flat-square&logo=typescript" />
-  <img src="https://img.shields.io/badge/Code-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Frontend-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Backend-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Code-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Code-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Code-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Code-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Code-C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Code-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Tools-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Platform-GitHub-181717?style=flat-square&logo=github" />
 </p>
 
 ---
 
 ## 📌 Featured Projects
 
-> 这里可以放一些你想展示的项目。
+### 🏠 Homepage
 
-- 🧩 [Project Name](https://github.com/dolphinmiao)  
-  项目简介：一句话介绍这个项目解决了什么问题。
+个人主页项目，用来展示个人信息、链接、文章和作品。
 
-- 🚀 [Project Name](https://github.com/dolphinmiao)  
-  项目简介：记录学习、实践或开源贡献的项目。
+- Repository: [dolphinmiao/homepage](https://github.com/dolphinmiao/homepage)
+- Website: [homepage.dolphinmiao.top](https://homepage.dolphinmiao.top/)
 
-- 🌟 [Project Name](https://github.com/dolphinmiao)  
-  项目简介：一个有趣的小工具或个人作品。
+### 📘 CelesteMiaoServer.Wiki
+
+蔚蓝群服 Wiki，记录 Celeste 相关服务器、教程和社区内容。
+
+- Repository: [dolphinmiao/CelesteMiaoServer.Wiki](https://github.com/dolphinmiao/CelesteMiaoServer.Wiki)
+
+### 🎮 CelesteMiaoNet
+
+Celeste / 蔚蓝相关项目。
+
+- Repository: [dolphinmiao/CelesteMiaoNet](https://github.com/dolphinmiao/CelesteMiaoNet)
+
+### 🚀 Celeste Mod China Mirror
+
+用于改善国内 Celeste Mod 下载体验的相关项目。
+
+- Repository: [dolphinmiao/Celeste-Mod-China-Mirror](https://github.com/dolphinmiao/Celeste-Mod-China-Mirror)
+
+### 🖼 PicX Images Hosting
+
+基于 GitHub 的图片托管仓库。
+
+- Repository: [dolphinmiao/picx-images-hosting](https://github.com/dolphinmiao/picx-images-hosting)
 
 ---
 
@@ -67,30 +99,29 @@
 
 ---
 
-## 🌱 Currently Learning
+## 🌱 Currently Exploring
 
-- 前端工程化
-- 后端开发
-- 数据结构与算法
-- 开源项目协作
-- AI 与开发效率工具
+- Web 前端与个人主页开发
+- GitHub Pages / Wiki / 图床
+- Celeste 社区相关项目
+- Bot 与自动化工具
+- 开源项目维护与协作
 
 ---
 
 ## 📫 Contact Me
 
-如果你对我的项目感兴趣，或者想一起交流技术，欢迎联系我：
-
 - GitHub: [@dolphinmiao](https://github.com/dolphinmiao)
-- Email: your-email@example.com
-- Blog: coming soon...
+- Homepage: [homepage.dolphinmiao.top](https://homepage.dolphinmiao.top/)
+- Bilibili: [space.bilibili.com/411636946](https://space.bilibili.com/411636946)
+- Telegram: [@dolphinmiao](https://t.me/dolphinmiao)
 
 ---
 
 <p align="center">
-  <strong>Thanks for visiting my profile! 🐬</strong>
+  <strong>How lucky to meet you! 🐬</strong>
 </p>
 
 <p align="center">
-  <em>Keep coding, keep learning, keep growing.</em>
+  <em>一切都是命运石之门的选择，顺其自然吧。</em>
 </p>
