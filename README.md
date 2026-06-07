@@ -39,18 +39,3 @@
 </p>
 
 ---
-
-## 📌 Featured Projects
-
-> 这里可以放一些你想展示的项目。
-
-- 🧩 [Project Name](https://github.com/dolphinmiao)  
-  项目简介：一句话介绍这个项目解决了什么问题。
-
-- 🚀 [Project Name](https://github.com/dolphinmiao)  
-  项目简介：记录学习、实践或开源贡献的项目。
-
-- 🌟 [Project Name](https://github.com/dolphinmiao)  
-  项目简介：一个有趣的小工具或个人作品。
-
----
